@@ -3,7 +3,7 @@
 
 Chatify is a full-stack real-time chat application built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It allows users to register, log in, and chat with other users in real time with a clean and intuitive user interface.
 
----
+live link : https://chatify-zefl.onrender.com
 
 ## 🚀 Features
 
