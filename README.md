@@ -119,6 +119,3 @@ This project is licensed under the [MIT License](LICENSE).
 🔗 [LinkedIn](https://linkedin.com/in/ayush-varma03)   
 ```
 
----
-
-Want me to auto-generate badges (e.g., license, GitHub issues, live demo) or customize the README for deployment platforms like Render or Vercel?
